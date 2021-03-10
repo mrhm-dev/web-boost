@@ -1,0 +1,21 @@
+h1 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 48px;
+	font-weight: 500;
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+p {
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+	line-height: 1.2;
+	font-family: Helvetica, Arial, sans-serif;
+	color: #666;
+}
